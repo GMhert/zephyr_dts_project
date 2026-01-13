@@ -1,0 +1,15 @@
+identifier: stm32f429igt6
+name: STM32F429IGT6 Board
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+ram: 256
+flash: 1024
+supported:
+  - can
+  - pwm
+  - counter
+  - spi
+  - gpio

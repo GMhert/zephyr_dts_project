@@ -1,0 +1,6 @@
+board:
+  name: stm32f103zet6
+  full_name: STM32F103ZET6
+  vendor: others
+  socs:
+    - name: stm32f103xe

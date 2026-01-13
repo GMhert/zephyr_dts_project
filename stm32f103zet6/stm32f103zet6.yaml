@@ -1,0 +1,19 @@
+identifier: stm32f103zet6
+name: STM32F103ZET6
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+ram: 64
+flash: 512
+supported:
+  - gpio
+  - i2c
+  - spi
+  - pwm
+  - watchdog
+  - adc
+  - counter
+  - usbd
+vendor: st

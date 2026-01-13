@@ -1,0 +1,6 @@
+board:
+  name: stm32f429igt6
+  full_name: STM32F429IGT6 Board
+  vendor: others
+  socs:
+    - name: stm32f429xx
