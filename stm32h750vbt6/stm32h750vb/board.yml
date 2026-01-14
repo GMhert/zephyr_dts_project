@@ -1,0 +1,6 @@
+board:
+  name: stm32h750vb
+  full_name: STM32H750VB
+  vendor: stm32h750vb
+  socs:
+    - name: stm32h750xx
